@@ -21,7 +21,7 @@ properties:
     KEYCLOAK_PASSWORD:
       vault: KEYCLOAK_PASSWORD
     DB_VENDOR: postgres
-    DB_ADDR: postgres13-master-13-x-0
+    DB_ADDR: postgres13-master-13-x
     DB_DATABASE: keycloak
     DB_USER: keycloak
     DB_SCHEMA: public
